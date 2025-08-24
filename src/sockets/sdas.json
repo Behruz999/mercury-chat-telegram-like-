@@ -1,0 +1,58 @@
+{
+    "firstName": "Shoxista",
+    "lastName": "Umarova",
+    "middleName": "Shuxratovna",
+    "phone": "916600434",
+    "role": "midwife",
+    "rank": {
+      "$oid": "65af812bc307db5bae1c1645"
+    },
+    "specialization": {
+      "$oid": "65e6d967325fea931d89813c"
+    },
+    "departments": [
+      {
+        "department": {
+          "$oid": "65cef95405ecef6319a29d20"
+        },
+        "organization": {
+          "$oid": "6673d2b95d3a91db7b18599e"
+        }
+      }
+    ],
+    "organization": {
+      "$oid": "6673d2b95d3a91db7b18599e"
+    },
+    "organizations": [
+      {
+        "$oid": "6673d2b95d3a91db7b18599e"
+      }
+    ],
+    "ranks": [
+      {
+        "department": {
+          "$oid": "65cef95405ecef6319a29d20"
+        },
+        "organization": {
+          "$oid": "6673d2b95d3a91db7b18599e"
+        },
+        "rank": {
+          "$oid": "65af812bc307db5bae1c1645"
+        }
+      }
+    ],
+    "experience": 2024,
+    "login": null,
+    "password": null,
+    "province": {
+      "$oid": "659cce21b71b2407c8256f49"
+    },
+    "region": {
+      "$oid": "6673c7405d3a91db7b1850f3"
+    },
+    "corrupsiya": 0,
+    "faceId": null,
+    "photo": null,
+    "rate": 0,
+    "rates": []
+  }

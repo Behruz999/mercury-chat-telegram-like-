@@ -1,0 +1,8 @@
+mercury-chat to-do:
+
+1. 1-1 chat implementation:
+client:
+1. Hamma oldingi muloqot qilgan chatlari listda ko'rinadi
+2. Birortasini bosganda chat_opened event ga o'zining 
+ID sini va chatning ID sini jo'natishi bilan server tomonda
+uning chat ichidaligini bildirish uchun Array ga 
